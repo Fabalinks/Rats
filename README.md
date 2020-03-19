@@ -2,7 +2,6 @@
 
 Author: Fabian Stocek 
 
-A project dedicated to understanding spatial navigation in rats.
 Creating a simple analysis of ocupation in a ratcave with a beacon projection task. 
 
 
