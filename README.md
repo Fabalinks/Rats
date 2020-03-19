@@ -1,3 +1,15 @@
 # Rats
+
+Author: Fabian Stocek 
+
+A project dedicated to understanding spatial navigation in rats.
+Creating a simple analysis of ocupation in a ratcave with a beacon projection task. 
+
+
+position.txt : dataset used for analysis.
+
+Report_Analysis.ipynb: the jupyter notebook containing code.
+
+
 A project dedicated to understanding spatial navigation in rats
-and this is just an addition to this so that i know how it works 
+
